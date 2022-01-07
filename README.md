@@ -15,6 +15,11 @@
 
 ![Akshaykumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkshaykumarG26&theme=dark&show_icons=true)
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+
+
+
 
 <!--
 **AkshaykumarG26/AkshaykumarG26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
