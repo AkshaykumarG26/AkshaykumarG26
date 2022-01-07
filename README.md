@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Akshaykumar 
-[![Linkedin Badge](https://img.shields.io/badge/-Akshaykumar-Gullapalli-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://linkedin.com/in/akshaykumar-gullapalli-516916176)](https://linkedin.com/in/akshaykumar-gullapalli-516916176)
+[![Linkedin Badge](https://img.shields.io/badge/-Akshaykumar-Gullapalli-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/akshaykumar-gullapalli-516916176)](https://linkedin.com/in/akshaykumar-gullapalli-516916176)
 [![Gmail Badge](https://img.shields.io/badge/-akshayg26970@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:akshayg2697@gmail.com)](mailto:akshayg2697@gmail.com) 
 
 🎯 Portfolio website: [Portfolio](https://portfolio-nr4vqfvog-akshaykumarg26.vercel.app/)
@@ -7,11 +7,9 @@
 
 💻 *Things I love*
 - Javascript <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- React.js ✍️
 - MongoDB 🧐
-- Nodejs 😬
-- Tailwind 😅
-- Express 😚
+- NodeJS 😬
+- ExpressJS 🧐
 
 ![Akshaykumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkshaykumarG26&theme=dark&show_icons=true)
 
