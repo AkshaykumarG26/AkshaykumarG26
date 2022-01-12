@@ -31,8 +31,8 @@
   <a title="akshayg2697@gmail.com" href="mailto:akshayg2697@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="m-sehrawat" /></a> 
 </p>
 
-<h1>🎯 Portfolio website:[Portfolio](https://akshaykumar-gullapalli-portfolio.vercel.app/)</h1>
-- ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
+🎯 Portfolio website:[Portfolio](https://akshaykumar-gullapalli-portfolio.vercel.app/)
+<h1>- ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓<h1>
 
 <h3>💻 *Things I love*</h3>
 <ul>
