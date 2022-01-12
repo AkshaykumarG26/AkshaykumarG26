@@ -34,11 +34,13 @@
 🎯 Portfolio website: [Portfolio](https://portfolio-nr4vqfvog-akshaykumarg26.vercel.app/)
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
 
-💻 *Things I love*
+<h3>💻 *Things I love*</h3>
+<ul>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs"/>
+  </ul>
 
 ![Akshaykumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkshaykumarG26&theme=dark&show_icons=true)
 
